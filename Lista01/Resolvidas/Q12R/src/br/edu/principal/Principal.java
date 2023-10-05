@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		Double num1, num2, r1, r2;
+		double num1, num2, r1, r2;
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Digite seu primeiro numero:");
 		num1 = sc.nextDouble();
@@ -13,8 +13,8 @@ public class Principal {
 		num2 = sc.nextDouble();
 		r1 = Math.pow(num1,num2);
 		r2 = Math.pow(num2,num1);
-		System.out.println("O primeiro número elevado ao segundo é: "+r1);
-		System.out.println("O segundo número elevado ao primeiro é: "+r2);
+		System.out.println("O primeiro nÃºmero elevado ao segundo Ã©: "+r1);
+		System.out.println("O segundo nÃºmero elevado ao primeiro Ã©: "+r2);
 
 	}
 
