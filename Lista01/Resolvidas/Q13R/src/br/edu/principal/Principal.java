@@ -5,16 +5,16 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		Double pes, polegadas, jardas, milhas;
+		double pes, polegadas, jardas, milhas;
 		Scanner sc = new Scanner(System.in);
-		System.out.print("digite a quantidades de pés: ");
+		System.out.print("digite a quantidades de pÃ©s: ");
 		pes = sc.nextDouble();
 		polegadas = pes * 12;
 		jardas = pes / 3;
 		milhas = jardas / 1.760;
-		System.out.println("conversão de pés para polegadas é: "+polegadas);
-		System.out.println("conversão de pés para jardas é: "+ jardas);
-		System.out.println("conversão de pés para milhas é: "+ milhas);
+		System.out.println("conversÃ£o de pÃ©s para polegadas Ã©: "+polegadas);
+		System.out.println("conversÃ£o de pÃ©s para jardas Ã©: "+ jardas);
+		System.out.println("conversÃ£o de pÃ©s para milhas Ã©: "+ milhas);
 
 
 	}
