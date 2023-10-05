@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		Double number, quadrado, cubo, raiz2, raiz3;
+		double number, quadrado, cubo, raiz2, raiz3;
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Digite o numero:");
 		number = sc.nextDouble();
@@ -14,10 +14,10 @@ public class Principal {
 		raiz2 = Math.sqrt(number);
 		raiz3 = Math.cbrt(number); 
 		System.out.println("Numero digitado foi: "+number);
-		System.out.println("Seu numero ao quadrado é: "+quadrado);
-		System.out.println("Seu numero ao cubo é: "+ cubo);
-		System.out.println("A raiz quadrada do numero é: "+raiz2);
-		System.out.println("A raiz cubica do numero é: "+raiz3);
+		System.out.println("Seu numero ao quadrado Ã©: "+quadrado);
+		System.out.println("Seu numero ao cubo Ã©: "+ cubo);
+		System.out.println("A raiz quadrada do numero Ã©: "+raiz2);
+		System.out.println("A raiz cubica do numero Ã©: "+raiz3);
 	}
 
 }
