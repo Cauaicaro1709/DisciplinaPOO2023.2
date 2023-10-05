@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		Double nota1, nota2, nota3, peso1, peso2, peso3, média;
+		double nota1, nota2, nota3, peso1, peso2, peso3, mÃ©dia;
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Digite sua primeira nota:");
 		nota1 = sc.nextDouble();
@@ -19,8 +19,8 @@ public class Principal {
 		peso2 = sc.nextDouble();
 		System.out.print("Digite peso 3:");
 		peso3 = sc.nextDouble();
-		média = (nota1*peso1 + nota2*peso2+ nota3*peso3)/(peso1 + peso2 + peso3);
-		System.out.print("Sua média é:"+média);
+		mÃ©dia = (nota1*peso1 + nota2*peso2+ nota3*peso3)/(peso1 + peso2 + peso3);
+		System.out.print("Sua mÃ©dia Ã©:"+mÃ©dia);
 
 	}
 
