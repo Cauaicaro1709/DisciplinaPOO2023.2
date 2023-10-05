@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		Double dep, taxa, rend, total;
+		double dep, taxa, rend, total;
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Digite o valor do deposito: ");
 		dep = sc.nextDouble();
