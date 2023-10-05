@@ -5,14 +5,14 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
-		Double base, altura, área;
+		double base, altura, Ã¡rea;
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Digite o valor da base: ");
 		base = sc.nextDouble();
 		System.out.print("Digite o valor da altura: ");
 		altura = sc.nextDouble();
-		área =(base * altura)/2;
-		System.out.print("O valor da área é: "+ área);
+		Ã¡rea =(base * altura)/2;
+		System.out.print("O valor da Ã¡rea Ã©: "+ Ã¡rea);
 
 	}
 
