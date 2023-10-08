@@ -10,7 +10,7 @@
 - capítulo 5 - (estrutura de repetição)
 
 
-- ➣ lista 03: 15 (5-5-5 Exercícios Resolvidos(sorteados aleatoriamente)
+- ➣ lista 03: 15 (5-5-5) Exercícios Resolvidos(sorteados aleatoriamente)
 - capítulo 6 - (vetor)
 - capítulo 7 - (matriz)
 - capítulo 8 - (sub-rotina)
