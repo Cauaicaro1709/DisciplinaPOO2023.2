@@ -21,6 +21,5 @@ public class Principal {
 
 	        System.out.println("O valor de 'e' é: " + e);
 
-	        scanner.close();
 	    }
 	}
