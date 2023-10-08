@@ -6,7 +6,7 @@
 
   
 - ➣ lista 02: TODOS os Exercícios Resolvidos e 10 (5-5) Propostos (sorteados aleatoriamente)
-- capítulo 4 - (estrutura condiciona)
+- capítulo 4 - (estrutura condicional)
 - capítulo 5 - (estrutura de repetição)
 
 
